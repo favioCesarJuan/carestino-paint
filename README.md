@@ -33,4 +33,4 @@ Ensure you have the following installed:
    
    
 ## URL Deploy
-https://carestino-paint-innub926y-faviocesarjuans-projects.vercel.app/
+https://carestino-paint.vercel.app/
