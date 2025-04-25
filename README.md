@@ -14,7 +14,7 @@ Carestino Paint is a web application built with [Next.js](https://nextjs.org/), 
 
 ## Getting Started
 
-This project is set up to run with Next.js 15.3.1 and includes support for Turbopack, TypeScript, and Tailwind CSS for rapid development and styling.
+This project is set up to run with Next.js 15.3.1 and includes support for Turbopack, and Tailwind CSS for rapid development and styling.
 
 To get a local copy up and running, follow the steps below.
 
