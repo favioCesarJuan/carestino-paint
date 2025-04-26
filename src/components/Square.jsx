@@ -1,11 +1,11 @@
-'use client'
+"use client";
 import { memo, useState } from "react";
 
 const Square = memo(({ colorRef }) => {
-  const [currentColor, setCurrentColor] = useState('#fff');
-  
+  const [currentColor, setCurrentColor] = useState("#fff");
+
   const toggleColor = () => {
-    setCurrentColor(prev => prev === '#fff' ? colorRef.current : '#fff');
+    setCurrentColor((prev) => (prev === "#fff" ? colorRef.current : "#fff"));
   };
 
   return (
@@ -17,5 +17,5 @@ const Square = memo(({ colorRef }) => {
   );
 });
 
-Square.displayName = 'Square'; // Para React DevTools
+Square.displayName = "Square";
 export { Square };
